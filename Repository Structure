@@ -1,0 +1,10 @@
+Portfolio_Website/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   └── images/
+│       └── profile.jpg  (add your profile picture here)
+└── README.md
+
