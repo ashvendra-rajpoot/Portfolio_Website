@@ -28,5 +28,5 @@ I love building innovative projects and learning new technologies.
 [View Online](https://ashvendra-rajpoot.github.io/Portfolio_Website/)
 
 ## Contact
-- GitHub: [ashvendra-rajpoot](https://github.com/ashvendra-rajpoot)  
-- LinkedIn: [Ashvendra Rajpoot](https://www.linkedin.com/in/ashvendra-rajpoot/)
+- GitHub: https://github.com/ashvendra-rajpoot 
+- LinkedIn: www.linkedin.com/in/ashvendra-rajpoot-7937b0262
